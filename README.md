@@ -14,7 +14,7 @@ El desarrollo incluyó:
 3. Optimización del diseño para diferentes dispositivos.
 
 ## Despliegue
-El proyecto está disponible en el siguiente enlace: [MaquetacionGRID_Practica01](https://tuusuario.github.io/MaquetacionGRID_Practica01/)
+El proyecto está disponible en el siguiente enlace: [MaquetacionGRID_Practica01](https://senkiin.github.io/MaquetacionGRID_Practica01/)
 
 ## Construido con
 - HTML5
@@ -24,10 +24,10 @@ El proyecto está disponible en el siguiente enlace: [MaquetacionGRID_Practica01
 Este es el lanzamiento inicial (v1.0).
 
 ## Autores
-- **Tu Nombre** - [GitHub](https://github.com/tuusuario)
+- **Tu Nombre** - [GitHub](https://github.com/senkiin)
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
 ## Recursos Adicionales
-- Página del proyecto en GitHub: [Repositorio en GitHub](https://github.com/tuusuario/MaquetacionGRID_Practica01)
+- Página del proyecto en GitHub: [Repositorio en GitHub](https://github.com/senkiin/MaquetacionGRID_Practica01)
