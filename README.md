@@ -14,7 +14,7 @@ El desarrollo incluyó:
 3. Optimización del diseño para diferentes dispositivos.
 
 ## Despliegue
-El proyecto está disponible en el siguiente enlace: [MaquetacionGRID_Practica01](https://senkiin.github.io/MaquetacionGRID_Practica01/)
+El proyecto está disponible en el siguiente enlace: [MaquetacionGRID_Practica01](https://github.com/senkiin/MaquetacionGRID_Practica01.git/)
 
 ## Construido con
 - HTML5
