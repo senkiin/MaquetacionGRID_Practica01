@@ -1,0 +1,85 @@
+/* Ivan Senkin Gorbatova */
+*{
+    margin: 0;
+
+}
+
+#page{
+    display: grid;
+    width: 100%;
+    grid-template-areas: 
+    "head head head head"
+    "nav arti arti arti2"
+    "nav arti3 arti4 arti5"
+    "foot foot foot foot"
+    ;
+    font-family: "Yuji Mai", serif;
+    font-weight: 400;
+
+}
+
+
+#page > .head{
+    text-align: center;
+    grid-area: head;
+    background-color: aqua;
+    border-bottom: 1px solid black;
+   
+}
+
+.img3{
+    height: 240px;
+    width: 350px;
+    margin: 10%;
+}
+.img1{
+    height: 450px;
+    width: 650px;
+    margin: 10%;
+}
+.img2{
+    height: 240px;
+    width: 350px;
+    margin: 10%;
+}
+
+#page > .nav{
+    grid-area: nav;
+    background-color: wheat;
+}
+
+article{
+    border:1px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+#page > .arti{
+    grid-area: arti;
+    background-color: bisque;
+}
+
+#page > .arti2{
+    grid-area: arti2;
+    background-color: yellow;
+}
+
+#page >.arti3{
+    grid-area: arti3;
+    background-color: violet;
+}
+
+#page >.arti4{
+    grid-area: arti4;
+    background-color: azure;
+}
+
+#page >.arti5{
+    grid-area: arti5;
+    background-color: turquoise;
+}
+
+#page >.foot{
+    grid-area: foot;
+    background-color: aquamarine;
+}
+
