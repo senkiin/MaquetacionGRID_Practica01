@@ -24,7 +24,7 @@ El proyecto está disponible en el siguiente enlace: [MaquetacionGRID_Practica01
 Este es el lanzamiento inicial (v1.0).
 
 ## Autores
-- **Tu Nombre** - [GitHub](https://github.com/senkiin)
+- **Ivan** - [GitHub](https://github.com/senkiin)
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
